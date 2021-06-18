@@ -1,0 +1,22 @@
+{
+  "name": "codewars",
+  "version": "1.0.0",
+  "description": "Solutions from codewars",
+  "main": "index.js",
+  "scripts": {
+    "watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolasR98/codewars.git"
+  },
+  "author": "Nicolas Rios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicolasR98/codewars/issues"
+  },
+  "homepage": "https://github.com/NicolasR98/codewars#readme",
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
